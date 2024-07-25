@@ -1,1 +1,2 @@
 # Analysis-of-Quadcopter-Control-Trajectory-Follower-1D-2D-3D-
+A Quadcopter is a UAV that can take off and land vertically. This thesis focuses on the mathematical modeling and control of a quadcopter for stabilization and trajectory tracking. The quadcopter's system dynamics are modeled using Newton and Euler equations. A PID control algorithm is developed for stabilization. Additionally, a nonlinear control technique called Feedback Linearization using Nonlinear Dynamic Inversion is discussed and applied to the quadcopter.
